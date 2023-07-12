@@ -1,0 +1,7 @@
+# terrform files
+.terraform
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+
+# ingnore idea
+.idea
